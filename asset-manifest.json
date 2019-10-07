@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/breaking-bad-quotes/static/css/main.ed027ae5.chunk.css",
+    "main.css": "/breaking-bad-quotes/static/css/main.534dc228.chunk.css",
     "main.js": "/breaking-bad-quotes/static/js/main.685bde27.chunk.js",
     "main.js.map": "/breaking-bad-quotes/static/js/main.685bde27.chunk.js.map",
     "runtime-main.js": "/breaking-bad-quotes/static/js/runtime-main.95e67f1e.js",
@@ -8,15 +8,15 @@
     "static/js/2.3fa03b60.chunk.js": "/breaking-bad-quotes/static/js/2.3fa03b60.chunk.js",
     "static/js/2.3fa03b60.chunk.js.map": "/breaking-bad-quotes/static/js/2.3fa03b60.chunk.js.map",
     "index.html": "/breaking-bad-quotes/index.html",
-    "precache-manifest.2ecfcd5a2fee941f1afeeea0dead3baa.js": "/breaking-bad-quotes/precache-manifest.2ecfcd5a2fee941f1afeeea0dead3baa.js",
+    "precache-manifest.1dd2b37d5575a601f9c4412c578b4e68.js": "/breaking-bad-quotes/precache-manifest.1dd2b37d5575a601f9c4412c578b4e68.js",
     "service-worker.js": "/breaking-bad-quotes/service-worker.js",
-    "static/css/main.ed027ae5.chunk.css.map": "/breaking-bad-quotes/static/css/main.ed027ae5.chunk.css.map",
+    "static/css/main.534dc228.chunk.css.map": "/breaking-bad-quotes/static/css/main.534dc228.chunk.css.map",
     "static/media/logo.svg": "/breaking-bad-quotes/static/media/logo.427a4adc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.95e67f1e.js",
     "static/js/2.3fa03b60.chunk.js",
-    "static/css/main.ed027ae5.chunk.css",
+    "static/css/main.534dc228.chunk.css",
     "static/js/main.685bde27.chunk.js"
   ]
 }

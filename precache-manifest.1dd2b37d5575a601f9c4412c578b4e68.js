@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c8d0928e87f35effe87e8ca1315380b",
+    "revision": "053cd3a1192321d0a69f8be7e907f780",
     "url": "/breaking-bad-quotes/index.html"
   },
   {
-    "revision": "939c9479e2e48a0fb007",
-    "url": "/breaking-bad-quotes/static/css/main.ed027ae5.chunk.css"
+    "revision": "5dff070552382098fd09",
+    "url": "/breaking-bad-quotes/static/css/main.534dc228.chunk.css"
   },
   {
     "revision": "a8e32d0af611c2e766e4",
     "url": "/breaking-bad-quotes/static/js/2.3fa03b60.chunk.js"
   },
   {
-    "revision": "939c9479e2e48a0fb007",
+    "revision": "5dff070552382098fd09",
     "url": "/breaking-bad-quotes/static/js/main.685bde27.chunk.js"
   },
   {
